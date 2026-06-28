@@ -1,4 +1,4 @@
-# Hi, I’m Shazan 👋
+# Hi, I’m Hamdan 👋
 
 I’m a **Web Developer** passionate about building **modern, user-friendly web applications** using the **MERN stack**. I enjoy turning complex problems into **elegant solutions** and bringing ideas to life through code.
 
