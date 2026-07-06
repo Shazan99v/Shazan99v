@@ -212,7 +212,7 @@ https://linkedin.com/in/shazan-gull-15a8773aa
 shazanwebdeveloper@gmail.com
 
 📷 Instagram  
-@shazanwebdeveloper
+@hamdanwebdeveloper
 
 ---
 
