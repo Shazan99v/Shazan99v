@@ -203,13 +203,13 @@ Custom AI assistant built with Ollama, RAG, vector databases, and document-based
 ## 📫 Let's Connect
 
 🌐 Portfolio  
-https://shazanwebdeveloper.netlify.app
+https://hamdangull.netlify.app
 
 💼 LinkedIn  
-https://linkedin.com/in/shazan-gull-15a8773aa
+https://linkedin.com/in/shazan-gull-99v
 
 📧 Email  
-shazanwebdeveloper@gmail.com
+codingwizardx9v@gmail.com
 
 📷 Instagram  
 @hamdanwebdeveloper
@@ -238,7 +238,7 @@ https://github.com/Shazan99v
 https://www.instagram.com/hamdanwebdeveloper/
 
 📧 Email  
-shazanwebdeveloper@gmail.com
+codingwizardx9v@gmail.com
 
 ---
 
