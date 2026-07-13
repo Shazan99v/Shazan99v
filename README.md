@@ -36,8 +36,10 @@ I build secure, scalable, and high-performance web applications, AI-powered chat
 
 ### Databases
 
+### Databases
+
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 </p>
 
 ### AI & Backend Technologies
